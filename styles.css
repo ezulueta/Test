@@ -1,1 +1,4 @@
-p {background-color: blue;}
+p {
+    background-color: red;
+    font-size: large;
+}
